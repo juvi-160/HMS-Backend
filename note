@@ -1,0 +1,94 @@
+Operations for Recruiters:
+
+      1.  Sign Up/Login:
+        a)username
+        b)password
+        c)email address
+        d)company details
+         i)name of company
+         ii)industry type (Domain)
+         iii) Designation of the recruiter
+        e)Phone Number 
+       
+      (Recruiters can sign up by providing necessary details like name, email, company details, etc.
+       After signing up, recruiters can log in using their credentials.)
+
+      2.Dashboard:
+         a)Contest overview:
+            i)Summary of contest 
+            -Number of registered candidates
+            -Number of shortlisted candidates
+
+            ii)Upcoming  Contests
+            –Name and date of the contests
+            –Domain
+
+         b)Candidate Management:
+         i)View all Candidates
+         -Full Name
+         -Profile Resume
+         -Skills
+         -Qualifications
+         ii)Shortlisted Candidates
+
+         (Upon logging in, recruiters are redirected to their dashboard.
+          The dashboard provides an overview of ongoing contests, upcoming events, recent activities, etc.
+          Recruiters can navigate to different sections from the dashboard.)
+
+
+      3.Create Contest/Aptitude Test:
+       Recruiters can create new contests or aptitude tests by providing the following details:
+       Name of the contest/test
+       Description
+       Skills required
+       Duration
+       Start/end dates
+       Prizes and rewards
+       Rules and guidelines
+       Participants' eligibility criteria
+       Additional notes or instructions
+
+
+     4.Read Contest/Aptitude Test:
+       Recruiters can view details of existing contests or aptitude tests, including:
+       Participant data (registered participants)
+       Scores and performance metrics
+       Contest status (upcoming, ongoing, completed)
+       Results and leaderboards
+       Contest analytics and statistics
+
+
+      5.Update Contest/Aptitude Test:
+       Recruiters can modify details of contests or aptitude tests, such as:
+       Changing dates (start/end dates)
+       Updating rules and guidelines
+       Adding or modifying prizes and rewards
+       Editing participant eligibility criteria
+       Making adjustments based on feedback or requirements
+
+
+      6.Delete Contest/Aptitude Test:
+       Recruiters can delete contests or aptitude tests that are no longer relevant or needed.
+       Deleted contests/tests are removed from the system, including participant data and results.
+      
+      7.Leaderboards:
+       Recruiters can access two types of leaderboards:
+       Overall Leaderboard: Displays rankings and scores of participants across all contests.
+       Institute's Leaderboard: Shows rankings and scores of participants from specific institutes or schools.
+
+
+     8.Contest Results and Analytics:
+Recruiters can access detailed contest results, including:
+Participant scores and rankings
+Winner announcements
+Performance metrics and analytics
+Comparison charts and graphs
+Insights into participant engagement and skills demonstrated
+
+
+     9.Recommended Profiles:
+Recruiters can receive recommended profiles of students based on hiring habits and past interactions.
+Recommendations are generated based on criteria such as skills, performance in contests, educational background, etc.
+Recruiters can review recommended profiles and take further action.
+
+We’re indented to use to different servers for recruiters and contests here is how should be the basic structure of servers.
